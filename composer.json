@@ -1,0 +1,15 @@
+{
+  "name": "vendor_name/demofaker",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "ad",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "fakerphp/faker": "^1.20"
+  }
+}
