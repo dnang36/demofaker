@@ -2,9 +2,9 @@
 
 ## Đề bài: demo các tính năng của package https://github.com/FakerPHP/Faker
 
-## Thực hiện bởi: [Nguyễn Đoàn Đăng](https://github.com/dnang36)
+### Thực hiện bởi: [Nguyễn Đoàn Đăng](https://github.com/dnang36)
 
-### Download code và run code tại đường dẫn https://github.com/phhung1901/faker_php
+### Download code và run code tại đường dẫn https://github.com/dnang36/demofaker
 
 ## Kiến thức nắm được:
 1. Composer
