@@ -5,9 +5,9 @@ use src\data\data;
 
 $data = new data();
 
-//for ($i=0;$i<4;$i++) {
-//    $data->fakeData();
-//}
+for ($i=0;$i<4;$i++) {
+    $data->fakeData();
+}
 
 
 //$data->modifiersUnique();
